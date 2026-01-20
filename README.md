@@ -1,174 +1,156 @@
-# 👩‍💻 **Monalisa Jena**  
-### 🚀 **Full-Stack Developer & Problem Solver**  
-#### 🎯 *Building Scalable Solutions with Passion & Precision*  
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monalisa-jena)
-[![GitHub](https://img.shields.io/badge/-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Monalisa-Jena2309)
-[![Email](https://img.shields.io/badge/-Hire%20Me%20Via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmonalisa477@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-View%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+# 👋 Hi there, I'm Monalisa Jena
 
-📍 **Srikakulam, AP** | 📧 **jmonalisa477@gmail.com** | 📱 **+91 8260918565**
+### 💻 Full-Stack Developer | 🎓 Computer Science Engine&logering Student | 🚀 Problem Solver
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Spring+Boot+Specialist;Angular+&+React+Expert;Problem+Solver+in+Action&font=Fira+Code&center=true&width=800&height=50&duration=3000&pause=1000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedinoColor=white)](https://www.linkedin.com/in/monalisa-jena)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Monalisa-Jena2309)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmonalisa477@gmail.com)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org)
+
+📍 **Srikakulam, Andhra Pradesh** | 📧 jmonalisa477@gmail.com | 📞 +91 8260918565
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Problem+Solver;Always+Learning&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
 </div>
 
 ---
 
-## 🎯 **Executive Snapshot**
+## 👨‍💻 About Me
 
-> **Innovative Computer Science Engineer** with **9.0/10 CGPA** and hands-on experience building enterprise-grade applications. Proven ability to deliver **80%+ efficiency improvements** through technical solutions. Currently seeking **Full-Stack Developer roles** where I can contribute to scalable systems and meaningful digital transformation.
+```java
+public class Monalisa {
+    String role = "Full-Stack Developer";
+    String education = "B.Tech CSE (CGPA: 9.0/10)";
+    String status = "Open to Opportunities";
+    String[] passions = {"Building Scalable Applications", "Problem Solving", "Learning New Technologies"};
+    
+    public void work() {
+        while(true) {
+            code();
+            learn();
+            innovate();
+        }
+    }
+}
+```
+
+Passionate **Computer Science Engineering student** with hands-on experience in full-stack development. I love building scalable web applications and solving real-world problems through innovative technology solutions.
 
 ---
 
-## 🔥 **Core Competencies**
+## 💼 Professional Experience
+
+### 🎯 Frontend Developer Intern
+**Teachnook** | *Bengaluru, Karnataka* | `May 2024 - June 2024`
+
+- ⚡ Engineered dynamic product sections and interactive comparison tables, **boosting user engagement by 80%**
+- 🎨 Integrated payment gateway and REST APIs using **React.js** and **Tailwind CSS**
+- 🚀 Delivered scalable, high-performance web solutions with focus on **UX/UI optimization**
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Student Result Portal
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=oracle&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Apache POI](https://img.shields.io/badge/Apache_POI-D22128?style=flat-square&logo=apache&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logo=rest&logoColor=white)
+
+- ✅ Automated student result processing from Excel sheets, **reducing manual effort by 90%**
+- ⚡ Implemented dynamic SGPA/CGPA calculation with optimized data handling (**80% faster response time**)
+- 🔧 **Tech Stack:** Spring Boot, Apache POI, REST API, Excel Data Processing
+
+---
+
+### 🌱 Smart Irrigation System
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-FF6B6B?style=flat-square&logo=iot&logoColor=white)
+
+- 🤖 Developed IoT-enabled irrigation platform with **ML-based prediction**, improving farm monitoring efficiency by **40%**
+- 📡 Integrated ESP8266 modules for real-time sensor data acquisition and automated irrigation control
+- 👥 Collaborated as core team member to deliver cross-functional solution
+- 🔧 **Tech Stack:** Angular, Spring Boot, Flask, MySQL, Arduino IDE, REST API
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+| Certification | Provider |
+|--------------|----------|
+| 🏆 Data Structures and Algorithms (Basic to Advanced) | GeeksforGeeks |
+| ☕ Java Programming | GeeksforGeeks |
+| 🌐 Web Development Fundamentals | Teachnook |
+| 🤖 Prompt Engineering for Everyone | IBM Skills Network |
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology in Computer Science and Engineering**  
+🏛️ Centurion University of Technology & Management, Paralakhemundi, Odisha  
+📅 *2022 – 2026* | **CGPA: 9.0/10** ⭐
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-| **Frontend** | **Backend** | **Tools & DevOps** | **Databases** |
-|--------------|-------------|--------------------|---------------|
-| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
-
-</div>
-
----
-
-## 💼 **Professional Experience**
-
-### **Frontend Developer Intern** | *Teachnook, Bengaluru*
-`May 2024 – June 2024`
-
-✅ **Key Achievements:**
-- **Engineered** dynamic product comparison tables using React.js, increasing user engagement by **80%**
-- **Integrated** payment gateway and REST APIs, reducing checkout time by **40%**
-- **Optimized** UI/UX with Tailwind CSS, improving mobile responsiveness scores by **35%**
-- **Collaborated** in agile teams to deliver 4 major features ahead of schedule
-
-📊 **Impact:** Delivered scalable e-commerce components serving **10,000+ monthly users**
-
----
-
-## 🏆 **Flagship Projects**
-
-### **1. 🎓 Smart Student Result Portal** | *Enterprise Automation System*
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square)
-
-**🚀 The Challenge:** Manual result processing for 5,000+ students causing 15+ hours weekly workload.
-
-**💡 My Solution:** Built automated Excel-to-database pipeline with real-time SGPA/CGPA calculation.
-
-**📈 Results:**
-- **90% reduction** in manual processing time
-- **80% faster** query response with optimized indexing
-- **100% accuracy** in grade calculations
-- Scalable architecture supporting **10,000+ student records**
-
-**🛠 Tech Stack:** Spring Boot, Apache POI, MySQL, REST API, Microservices Architecture
-
----
-
-### **2. 🌱 AI-Powered Smart Irrigation System** | *IoT & Machine Learning*
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square)
-
-**🌍 Real-World Impact:** Water conservation for small-scale farmers in Andhra Pradesh.
-
-**⚡ Innovation:** ML-based prediction model analyzing soil moisture, weather, and crop data.
-
-**📊 Performance Metrics:**
-- **40% improvement** in water usage efficiency
-- **Real-time monitoring** via ESP8266 sensors
-- **Predictive analytics** with 92% accuracy
-- **Cross-platform** dashboard (Web & Mobile)
-
-**🔧 Architecture:** Angular Frontend + Spring Boot Microservices + Flask ML Model + MySQL + Arduino IoT
-
----
-
-## 📈 **Technical Impact Metrics**
-
-<div align="center">
-
-| **Metric** | **Before** | **After** | **Improvement** |
-|------------|------------|-----------|-----------------|
-| **System Performance** | 2-3 sec response | < 500 ms | ⬆ **80% Faster** |
-| **User Engagement** | Low interaction | High activity | ⬆ **80% Increase** |
-| **Process Automation** | 100% Manual | 90% Auto | ⬆ **90% Efficiency** |
-| **Code Quality** | Basic checks | Full CI/CD | ⬆ **60% Better** |
-
-</div>
-
----
-
-## 🏅 **Certifications & Achievements**
-
-| **Certification** | **Issuer** | **Key Skills Validated** |
-|-------------------|------------|--------------------------|
-| **🎯 Data Structures & Algorithms** | GeeksforGeeks | Problem Solving, Optimization |
-| **☕ Java Programming Expert** | GeeksforGeeks | OOP, Design Patterns |
-| **🤖 Prompt Engineering** | IBM | AI Integration, LLM Optimization |
-| **🏆 University Topper** | CUTM | Consistent Academic Excellence |
-
----
-
-## 📚 **Education**
-
-**Bachelor of Technology in Computer Science & Engineering**  
-*Centurion University of Technology & Management*  
-`2022 – 2026` | **CGPA: 9.0/10** 🏅
-
-**🎖️ Honors:**  
-- Department Rank: **Top 5%**
-- Academic Scholarship Recipient
-- Lead Developer for 3+ university projects
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-![Productivity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Monalisa-Jena2309&theme=github-dark&hide_border=true&area=true&custom_title=Weekly%20Coding%20Activity)
-
-| **Metric** | **Stats** |
-|------------|-----------|
-| **Total Contributions** | ![Total Contributions](https://badges.pufler.dev/contributions/Monalisa-Jena2309) |
-| **Languages** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monalisa-Jena2309&layout=compact&theme=radical) |
-| **Streak** | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Monalisa-Jena2309&theme=radical&hide_border=true) |
-
-</div>
-
----
-
-## 💡 **What I Bring to Your Team**
-
-✅ **Technical Excellence:** Full-stack proficiency with focus on scalable architecture  
-✅ **Problem-Solving:** Track record of 80%+ efficiency improvements  
-✅ **Business Impact:** Solutions that directly improve operational metrics  
-✅ **Agile Mindset:** Experience in fast-paced development environments  
-✅ **Continuous Learning:** Always updated with latest technologies  
-
----
-
-<div align="center">
-
-## 🤝 **Let's Connect & Build the Future**
-
-**Currently seeking:** Full-Time **Full-Stack Developer** positions starting 2026
-
-[![Schedule a Call](https://img.shields.io/badge/📅_Schedule_Exploratory_Call-4285F4?style=for-the-badge&logo=google-meet&logoColor=white)](mailto:jmonalisa477@gmail.com?subject=Exploratory%20Call%20Request)
-[![View Resume](https://img.shields.io/badge/📄_View_Full_Resume-008080?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
-[![GitHub Projects](https://img.shields.io/badge/🔍_Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Monalisa-Jena2309?tab=repositories)
-
----
   
-✨ **"Turning complex problems into elegant solutions, one line of code at a time."** ✨
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Monalisa-Jena2309&theme=radical&hide_border=false)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monalisa-Jena2309&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-**Open to exciting opportunities worldwide!** 🌍
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monalisa-Jena2309&layout=compact&theme=radical&hide_border=false)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Monalisa-Jena2309&theme=radical&hide_border=false)
 
 </div>
 
 ---
 
-*This README is dynamically updated. Last refresh: January 2025*
+<div align="center">
+
+### 🌟 "Code is like humor. When you have to explain it, it's bad." 🌟
+
+**Open to opportunities** | Let's connect and build something amazing together! 🚀
+
+⭐️ From [Monalisa-Jena2309](https://github.com/Monalisa-Jena2309)
+
+</div>
